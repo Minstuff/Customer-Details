@@ -23,11 +23,11 @@ Requirements:
 Getting Started :
 - Download the zip file
 - Unzip the file
-- >> (in cmd) cd backend >> npm i
-  >> (in cmd) cd frontend >> npm i
+- > (in cmd) cd backend >> npm i
+  > (in cmd) cd frontend >> npm i
 (this will install all the necessary packages, if not install nodemon, cors, mongoose and express in backend, react, bootstrap in the frontend)
-  >> backend> npm start
-  >> frontend> npm start
+  > backend> npm start
+  > frontend> npm start
 (This will get the app started)
 
 
